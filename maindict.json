@@ -1,0 +1,14 @@
+{
+  "string": "i am a string",
+  "int": 8,
+  "float": 7.4,
+  "array": [
+    "1",
+    "2",
+    "3"
+  ],
+  "dict": {
+    "hello": "hello",
+    "bye": "bye"
+  }
+}
